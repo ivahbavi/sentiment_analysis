@@ -12,3 +12,6 @@ venv/
 
 # VSCode settings (optional)
 .vscode/
+
+distilbert-feedback-model/
+distilbert-feedback-tokenizer/
