@@ -1,0 +1,14 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment folders
+nlp_feedback_env/
+venv/
+.env
+
+# VSCode settings (optional)
+.vscode/
